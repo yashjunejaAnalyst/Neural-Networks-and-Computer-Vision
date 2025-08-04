@@ -33,7 +33,9 @@ Final model: VGG-16 + FFNN, offering a better trade-off between accuracy and com
 **Outcome:**
 
 1.) Model Accuracy: ~61–62% on validation set, with higher training accuracy, indicating slight overfitting.
+
 2.) Business Insight: Automated detection is feasible and can assist in real-world deployment.
+
 3.) Key Risk Identified: False negatives (workers without helmets misclassified) pose safety concerns.
 
 **Recommendations:**
